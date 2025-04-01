@@ -17,6 +17,7 @@ Investigative Insights: Provides explanations, possible causes, and diagnostic m
 Clone the repository:
 
 git clone https://github.com/nguye82/anormal_VM_detection.git
+
 cd anormal_VM_detection
 
 Install dependencies:
